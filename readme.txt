@@ -1,3 +1,7 @@
+HERE IS A GUIDE FOR CORECYCLER-GUI. PLEASE MAKE SURE YOU FOLLOW THE STEPS. 
+https://youtu.be/GWfc_CxLYgY
+
+
 --------------
 - CORECYCLER -
 --------------
